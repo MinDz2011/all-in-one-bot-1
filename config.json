@@ -1,6 +1,6 @@
 {
     "token": "",
-    "language": "vi",
+    "language": "en",
     "prefix": "p!",
     "mongodbUri": "mongodb+srv://axo:axoop@cluster0.imckmpc.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
